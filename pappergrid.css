@@ -1,0 +1,20 @@
+
+.container-fluid {
+   height: 150px;
+
+}
+img{
+   max-width: 100%;
+}
+.Note2{
+   color: gray;
+}
+.imge{
+  
+   height: 500px;
+   width: 470px;
+}
+
+.btn{
+  margin: 10px;
+}
